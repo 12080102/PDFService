@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PDFService</string>
+    <string name="p1">PDF1 File Location:</string>
+    <string name="p2">PDF2 File Location:</string>
+    <string name="p3">PDF3 File Location:</string>
+    <string name="p4">PDF4 File Location:</string>
+    <string name="p5">PDF5 File Location:</string>
+</resources>
